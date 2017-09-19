@@ -1,17 +1,60 @@
 .flex-container1 {
     display: flex;
     flex-direction: row;
-    
-    height: 150px;
-
+    height: 200px;
 }
 .flex-item1 {
     width: 50%;
-    height: 150px;
-    margin: 5px;
+    margin: 10px;
+    background: LIGHTblue;   
+}
+
+.flex-container2 {
+    display: flex;
+    flex-direction: row;
+    height: 200px;  
+}
+.flex-item2 {
+    width: 33%;
+    margin: 10px;
     color:white;
-    background: blue;
-    line-height: 50px;
+    background:lightgreen;   
+}
 
+.flex-container3 {
+    display: flex;
+    flex-direction: row;
+    height: 200px; 
+}
 
+.flex-item3 {
+    width: 33%;
+    margin: 10px;
+    color:white;
+    background:lightcoral; 
+}
+
+.flex-container4 {
+    display: flex;
+    flex-direction: row;
+    height: 200px; 
+}
+
+.flex-item4 {
+    width: 33%;
+    margin: 10px;
+    color:white;
+    background:cadetblue;
+}
+.flex-container5 {
+    display: flex;
+    flex-direction: row;
+    height: 200px; 
+}
+
+.flex-item5 {
+    width: 33%;
+    margin: 10px;
+    color:white;
+    background:palevioletred;
 }
